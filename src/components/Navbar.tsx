@@ -159,3 +159,5 @@ export const Navbar: React.FC<NavbarProps> = ({ onShowWelcome }) => {
     </header>
   );
 };
+
+export default Navbar;

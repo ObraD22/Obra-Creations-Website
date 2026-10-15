@@ -26,7 +26,7 @@ export interface PortfolioCategory {
 
 export const PORTFOLIO_CATEGORIES: PortfolioCategory[] = [
   {
-    id: 'folder-weddings',
+    id: 'folder-weddings-tobby-mj',
     title: 'Weddings',
     slug: 'weddings',
     folderName: 'Portfolio / Tobby and MJ',
@@ -34,7 +34,7 @@ export const PORTFOLIO_CATEGORIES: PortfolioCategory[] = [
     description: 'Framing intimate glances, the exchange of sacred vows, and the euphoric celebration of your union with timeless composition.',
     photos: [
       {
-        id: 'w-1',
+        id: 'w-tm-1',
         title: 'Intimate Yacht Wedding',
         folderCategory: 'Weddings',
         categorySlug: 'weddings',
@@ -49,7 +49,7 @@ export const PORTFOLIO_CATEGORIES: PortfolioCategory[] = [
         },
       },
       {
-        id: 'w-2',
+        id: 'w-tm-2',
         title: 'Love overflowing',
         folderCategory: 'Weddings',
         categorySlug: 'weddings',
@@ -64,7 +64,7 @@ export const PORTFOLIO_CATEGORIES: PortfolioCategory[] = [
         },
       },
       {
-        id: 'w-3',
+        id: 'w-tm-3',
         title: 'Dream come true',
         folderCategory: 'Weddings',
         categorySlug: 'weddings',
@@ -79,7 +79,7 @@ export const PORTFOLIO_CATEGORIES: PortfolioCategory[] = [
         },
       },
       {
-        id: 'w-4',
+        id: 'w-tm-4',
         title: 'Warm love of a family',
         folderCategory: 'Weddings',
         categorySlug: 'weddings',
@@ -95,8 +95,8 @@ export const PORTFOLIO_CATEGORIES: PortfolioCategory[] = [
       },
     ],
   },
-    {
-    id: 'folder-weddings',
+  {
+    id: 'folder-weddings-malachi-vash',
     title: 'Weddings',
     slug: 'weddings',
     folderName: 'Portfolio / Malachi and Vashel',
@@ -104,7 +104,7 @@ export const PORTFOLIO_CATEGORIES: PortfolioCategory[] = [
     description: 'From the tender moment of veil placement to the joyful vows shared under the altar lights, Malachi and Vash’s wedding was a beautiful testament to love built on a divine foundation. Surrounded by family and covered in prayer, every smile, vow, and quiet moment reflected a journey anchored in faith.',
     photos: [
       {
-        id: 'w-1',
+        id: 'w-mv-1',
         title: 'Appointed in His Time',
         folderCategory: 'Weddings',
         categorySlug: 'weddings',
@@ -119,7 +119,7 @@ export const PORTFOLIO_CATEGORIES: PortfolioCategory[] = [
         },
       },
       {
-        id: 'w-2',
+        id: 'w-mv-2',
         title: 'Love overflowing',
         folderCategory: 'Weddings',
         categorySlug: 'weddings',
@@ -134,7 +134,7 @@ export const PORTFOLIO_CATEGORIES: PortfolioCategory[] = [
         },
       },
       {
-        id: 'w-3',
+        id: 'w-mv-3',
         title: 'Christ at the Center',
         folderCategory: 'Weddings',
         categorySlug: 'weddings',
@@ -149,7 +149,7 @@ export const PORTFOLIO_CATEGORIES: PortfolioCategory[] = [
         },
       },
       {
-        id: 'w-4',
+        id: 'w-mv-4',
         title: 'Rooted in love, surrounded by family.',
         folderCategory: 'Weddings',
         categorySlug: 'weddings',
